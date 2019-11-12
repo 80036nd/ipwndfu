@@ -1,3 +1,4 @@
 #!/bin/bash
-cd ~/Desktop
+cd ~/Documents/IPWNDFU
+chmod +x ./futurerestore
 ./futurerestore --exit-recovery
